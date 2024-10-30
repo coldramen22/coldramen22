@@ -1,6 +1,7 @@
 # howdy, i'm  @coldramen22 
 and on my hunt for a new personality trait i remembered my deep seeded love for html
 
+
 - 👀 i'm interested in...using code to make things pretty. i want to focus on html and css first, move into ui and data management (presentation? idk how to explain making a spreadsheet an aesthetic moment) and explore lightweight app design for my future in project management. or real estate. or maybe i have what it takes to make it in this overly saturated "self as sale" market. who knows?
 -   more seriously, i am passionate about open source, clean code, and networked notetaking principles. I believe these elements are crucial for enhancing programmer thinking and fostering a collaborative and efficient development environment.
 - 🌱 I’m currently learning the very basics typescript
@@ -37,18 +38,7 @@ Networked notetaking is a method of organizing and connecting ideas to enhance u
 
 The philosophy of networked notetaking is to create a dynamic and interconnected knowledge base that evolves with my learning journey. It supports critical thinking and problem-solving by making information more accessible and meaningful.
 
-## Favorite Open Source Projects
-
-Here are some of my favorite open source projects that I actively follow and contribute to:
-
-- **Project 1**: A powerful tool for automating workflows and improving productivity.
-- **Project 2**: An innovative library for building scalable web applications.
-- **Project 3**: A comprehensive framework for data analysis and visualization.
-
-Feel free to connect with me and explore my projects!
-
-
-<a href="https://app.daily.dev/coldramen32"><img src="https://api.daily.dev/devcards/v2/V0ElxwSseI2CKVm03xVKC.png?type=default&r=ian" width="356" alt="mari t's Dev Card"/></a>
+ <a href="https://stackoverflow.com/users/22270158/coldramen22" target="_blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /> </a> <a href="https://dev.to/coldramen22" target="_blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  /> </a> <a href="https://codepen.io/coldramen22" target="_blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  /> </a></div>
 
 <!---
 coldramen22/coldramen22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
